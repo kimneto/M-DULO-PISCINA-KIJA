@@ -3,7 +3,7 @@
 
 
 ## PLANEJAMENTO
-A ideia é criar em conjunto com um módulo relé de 2 canais e um ESP32 todos os controles e sensores necessários para atingir as metas. A programação do ESP32 será feito no ESPHOME (sou um dev cansado) do Home Assistant.
+Muitas vezes me deparei com minha casa de máquina alagada, vazamentos inesperados, esquecia de controlar as válvulas, e outros problemas que me geraram prejuizo, sou relaxado com essas coisas, por isso resolvi ajudar o Eu do futuro com esse projeto. A ideia é criar em conjunto com um módulo relé de 2 canais e um ESP32 todos os controles e sensores necessários para atingir as metas. A programação do ESP32 será feito no ESPHOME (sou um dev cansado) do Home Assistant.
 
 **--METAS--** 
 - [ ] MANTER A PISCINA COM MENOS CLORO
