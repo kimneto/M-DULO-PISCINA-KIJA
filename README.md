@@ -36,9 +36,9 @@ A ideia é criar em conjunto com um módulo relé de 2 canais e um ESP32 todos o
 
 
 **HISTÓRICO**
-Circuito desenvolvido:
-Lista de Materiais
-Placa para Impressão:
-Código EspHome:
+- Circuito desenvolvido:
+- Lista de Materiais
+- Placa para Impressão:
+- Código EspHome:
 
  **-- RESULTADOS OBTIDOS E MUDANÇAS NO PROJETO--**
