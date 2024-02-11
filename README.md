@@ -16,8 +16,8 @@ Muitas vezes me deparei com minha casa de máquina alagada, vazamentos inesperad
 - [ ] RECEBER ALERTA DE ALTA UMIDADE NA CASA DE MÁQUINA
 
 **--METAS FUTURAS--**
-- [] CONTROLAR AQUECEDOR SOLAR
-- [] CONTROLAR ROBO DE FUNDO
+- [ ] CONTROLAR AQUECEDOR SOLAR
+- [ ] CONTROLAR ROBO DE FUNDO
 
  **-- BÁSICO --**
  - [ ] BOTÃO ON/OFF
@@ -45,8 +45,8 @@ Muitas vezes me deparei com minha casa de máquina alagada, vazamentos inesperad
 - Placa para Impressão:
 - Código EspHome:
 
- **-- RESULTADOS OBTIDOS E MUDANÇAS NO PROJETO--**
-
+ **RESULTADOS OBTIDOS E MUDANÇAS NO PROJETO**
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  ***Me paga um café?***
  ***pix:*** joaquim.moreiraneto@gmail.com
 
