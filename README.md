@@ -47,5 +47,7 @@ Muitas vezes me deparei com minha casa de máquina alagada, vazamentos inesperad
 
  **-- RESULTADOS OBTIDOS E MUDANÇAS NO PROJETO--**
 
- ** Me paga um café? **
- PIX: joaquim.moreiraneto@gmail.com
+ ***Me paga um café?***
+ ***pix:*** joaquim.moreiraneto@gmail.com
+
+
