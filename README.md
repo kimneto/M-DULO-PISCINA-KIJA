@@ -15,6 +15,10 @@ Muitas vezes me deparei com minha casa de máquina alagada, vazamentos inesperad
 - [ ] RECEBER ALERTA DE ALTA TEMPERATURA NA CASA DE MÁQUINA
 - [ ] RECEBER ALERTA DE ALTA UMIDADE NA CASA DE MÁQUINA
 
+**--METAS FUTURAS--**
+- [] CONTROLAR AQUECEDOR SOLAR
+- [] CONTROLAR ROBO DE FUNDO
+
  **-- BÁSICO --**
  - [ ] BOTÃO ON/OFF
  - [ ] CONVERSOR 12V PARA 5V
@@ -42,3 +46,6 @@ Muitas vezes me deparei com minha casa de máquina alagada, vazamentos inesperad
 - Código EspHome:
 
  **-- RESULTADOS OBTIDOS E MUDANÇAS NO PROJETO--**
+
+ ** Me paga um café? **
+ PIX: joaquim.moreiraneto@gmail.com
